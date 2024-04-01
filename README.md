@@ -1,4 +1,4 @@
-Sure, here's a sample README.md file for a Tic Tac Toe game made with Flutter:
+
 
 # Tic Tac Toe
 
@@ -51,6 +51,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to the Flutter community for their continuous support and contributions to the ecosystem.
 
----
-
-Feel free to customize this README file according to your project's specific details and requirements.
